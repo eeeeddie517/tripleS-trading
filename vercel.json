@@ -1,4 +1,4 @@
 {
-  "public": "public",
-  "cleanUrls": true
+  "cleanUrls": true,
+  "rewrites": [{ "source": "/", "destination": "/cards.html" }]
 }
